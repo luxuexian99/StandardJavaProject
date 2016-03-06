@@ -1,0 +1,4 @@
+rootProject.name = 'StandardJavaProject'
+
+include 'JavaDeepAnalysis', 'JvmBestPractices', 'Algorithm-Java', 'JavaAndDesignPattern', 'ThinkInJava-4'
+

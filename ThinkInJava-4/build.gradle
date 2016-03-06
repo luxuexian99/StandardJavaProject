@@ -1,0 +1,8 @@
+version = '1.0'
+
+dependencies {
+    compile "log4j:log4j:1.2.16"
+    testCompile 'junit:junit:4.11'
+    compile "javassist:javassist:3.12.1.GA"
+    compile "org.eclipse.swt:org.eclipse.swt.cocoa.macosx.x86_64:4.3"
+}
