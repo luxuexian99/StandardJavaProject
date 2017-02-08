@@ -1,4 +1,4 @@
-rootProject.name = 'StandardJavaProject'
+rootProject.name = 'java-learning-road-projects'
 
-include 'JavaDeepAnalysis', 'JvmBestPractices', 'Algorithm-Java', 'JavaAndDesignPattern', 'ThinkInJava-4'
+include 'java-deep-analysis', 'jvm-best-practices', 'algorithm-java', 'java-and-design-pattern', 'think-in-java-4'
 
